@@ -28,9 +28,7 @@ The dataset used for this project is provided in the "training_data.csv" file.
 ## Model Architecture
 
 The model architecture consists of the following steps:
-# Note this is only a Prototype version, we can develop the whole model in the coming month
-
-
+-Note this is only a Prototype version, we can develop the whole model in the coming month
 - Feature extraction & then used LDA to classify datapoints into respective topics and themes in the social media data.
 - It is notiable that  
 - Sentiment score prediction using SVR based on the features extracted from LDA.
@@ -58,6 +56,7 @@ This will preprocess the data, extract features using LDA, train the SVR model, 
 ## Conclusion
 
 In conclusion, this project demonstrates how LDA and SVR can be used to build a robust sentiment analysis model that can accurately predict consumer sentiment based on social media activity. The model can be used by marketers and businesses to inform their marketing strategies and improve their sales by tailoring their messaging and advertising to appeal to their target audience.
+
 #Contact us at
 -20211a6645@bvrit.ac.in
 -20211a6604@bvrit.ac.in
