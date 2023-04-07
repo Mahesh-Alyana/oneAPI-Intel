@@ -30,7 +30,7 @@ The dataset used for this project is provided in the "training_data.csv" file.
 The model architecture consists of the following steps:
 -Note this is only a Prototype version, we can develop the whole model in the coming month
 - Feature extraction & then used LDA to classify datapoints into respective topics and themes in the social media data.
-- It is notiable that  
+- It is notiable that the data set already has a labeled column with Topic, when we have it whats the nessacity of using LDA for classify the datapoints to respective topics, the LDA algorithm calculates the relation between text and the topic.
 - Sentiment score prediction using SVR based on the features extracted from LDA.
 
 ## Results
